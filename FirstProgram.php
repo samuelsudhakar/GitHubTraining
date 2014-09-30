@@ -18,5 +18,6 @@ $GLOBALS['z'] = $GLOBALS['x'] + $GLOBALS['y'];
 
 addition();
 echo "<br>";
-echo $z;
+//echo $z;
+echo $y;
 ?>

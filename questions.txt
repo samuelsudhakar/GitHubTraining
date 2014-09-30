@@ -1,0 +1,56 @@
+ado.net 
+
+adapters different types of
+Connection oriented and connection less oriented
+data set - properties 
+Collections
+data tables
+filtering after the data had been fetched
+joins after you fetch the data 
+
+function and stored procedures - differences
+views - 
+Indexes - 
+clustered - physical sort - 1
+non clustered  - logical sort - 999
+
+
+Triggers - 
+SQL jobs - 
+
+Current server name and currect database - SQL statement
+
+SELECT @@SERVERNAME AS servername
+SELECT DB_Name() AS database
+
+
+Insert ayyina data
+Scope_Identity
+temp table where is it used
+table variable where is it used
+
+
+
+Command types
+
+Oops concepts
+Overriding
+overloading
+Assemblies - dlls
+access modifiers
+
+Exception handling
+catch block - base class will be called first
+
+ASP.NET
+HTTP pipe line
+page lifecycle
+global.asax
+configuration manager class
+namespaces
+state management - techniques
+Data controls - form controls, Grid, view
+
+HTML control and ASP.NET control - runat = server, this is used for sending data back to the server
+Serialization
+Deserialization

@@ -20,4 +20,5 @@ addition();
 echo "<br>";
 //echo $z;
 echo $y;
+echo $x;
 ?>
